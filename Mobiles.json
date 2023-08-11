@@ -42,6 +42,7 @@
                     "Processor":"Mediatek",
                     "FrontCamera":"15px",
                     "BackCamera":"25px",
+                    "color":"black",
                     "price" :13000
                 },
                 {

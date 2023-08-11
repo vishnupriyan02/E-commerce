@@ -1,0 +1,69 @@
+{
+    "Mobiles":[
+        {
+            "samsung":[
+                {
+                    "Model":"A51",
+                    "Processor":"Mediatek",
+                    "FrontCamera":"20px",
+                    "BackCamera":"50px",
+                    "price" :30000
+                },
+                {
+                    "Model":"A20",
+                    "Processor":"Mediatek",
+                    "FrontCamera":"15px",
+                    "BackCamera":"40px",
+                    "price" :15000
+                },
+                {
+                    "Model":"A30",
+                    "Processor":"Snaptragon",
+                    "FrontCamera":"25px",
+                    "BackCamera":"50px",
+                    "price" :25000
+
+                }
+            ],
+            "vivo":[
+                {
+                    "Model":"v15",
+                    "Processor":"Mediatek",
+                    "FrontCamera":"16px",
+                    "BackCamera":"20px",
+                    "price" :14000
+                },
+                {
+                    "Model":"y20",
+                    "Processor":"Mediatek",
+                    "FrontCamera":"15px",
+                    "BackCamera":"25px",
+                    "price" :13000
+                },
+                {
+                    "Model":"Z1pro",
+                    "Processor":"Snaptragon",
+                    "FrontCamera":"23px",
+                    "BackCamera":"50px",
+                    "price" :25000
+                }
+            ],
+            "redmi":[
+                {
+                    "Model":"pro10",
+                    "Processor":"Snaptragon",
+                    "FrontCamera":"23px",
+                    "BackCamera":"50px",
+                    "price" :22000
+                },
+                {
+                    "Model":"pro11",
+                    "Processor":"Mediatek",
+                    "FrontCamera":"20",
+                    "BackCamera":"15px",
+                    "price" :19000
+                }
+            ]
+        }
+    ] 
+}
